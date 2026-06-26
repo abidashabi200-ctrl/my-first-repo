@@ -1,0 +1,7 @@
+# Ignore secret files
+secret.txt
+passwords.txt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
